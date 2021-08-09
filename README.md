@@ -14,6 +14,11 @@ Website ðŸš€ <a href="https://contributte.org">contributte.org</a> | Contact ðŸ‘
     <img src="https://api.microlink.io/?url=https://microplanette.vercel.app&overlay.browser=light&screenshot=true&meta=false&embed=screenshot.url">
 </p>
 
+## Disclaimer
+
+| :warning: | This project is no longer being maintained. Please use [contributte/contributte-site](https://github.com/contributte/contributte-site).
+|---| --- |
+
 ## Usage
 
 Deploy site `vercel`.
