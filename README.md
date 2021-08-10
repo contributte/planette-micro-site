@@ -1,4 +1,4 @@
-![](https://heatbadger.now.sh/github/readme/contributte/planette-micro-site/)
+![](https://heatbadger.now.sh/github/readme/contributte/planette-micro-site/?deprecated=1)
 
 <p align=center>
   <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
